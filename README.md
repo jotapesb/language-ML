@@ -1,4 +1,4 @@
-Neste repositório mostra o passo a passo para usar o Language Studio e o Speech Studio da Azure.
+Neste repositório mostra o passo a passo para usar o **Language Studio** e o **Speech Studio** da Azure.
 
 
 # Language Studio
@@ -43,7 +43,7 @@ Descendo a página em 'Conversão de fala em texto , clique no primeiro card
 
 ## Passo 2
 
-Para transcrever o áudio, clique em ~Procurar arquivos...~ e selecione o seu áudio ou grave seu próprio áudio
+Para transcrever o áudio, clique em 'Procurar arquivos...' e selecione o seu áudio ou grave seu próprio áudio
 
 ![image](https://github.com/jotapesb/language-ML/assets/147784947/13152cab-dc36-463a-b216-6f6d99101b7b)
 
